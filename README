@@ -1,0 +1,3 @@
+mvn clean;
+mvn compile;
+mvn exec:java -Dexec.mainClass="com.hand.exam1.ex1"
